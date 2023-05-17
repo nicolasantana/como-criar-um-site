@@ -1,3 +1,19 @@
-header []
+.cabeçalho{
     background-color: #ff9e9e;
-    padding :
+    height: 250px;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    align-items: center;
+}
+.titulo-corpo{
+    display: flex;
+    justify-content: center;
+}
+.div-imagem-p1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    justify-content: space-around;
+}
